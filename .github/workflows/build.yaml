@@ -1,0 +1,14 @@
+name: Build
+
+on: push
+
+jobs:
+  build:
+    name: Build Site
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Build the Jekyll site using Docker
+      run: ./scripts/build.sh
