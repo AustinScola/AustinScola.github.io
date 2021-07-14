@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Hello friend][1], my name is Austin Scola.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- I'm a [Bostonian][2].
+- I ran competitively for around 10 years, but I am now _retired_ from running.
+- I worked at [Boston Dynamics][3] for 2 years.
+- I am now starting up a company.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[1]: https://github.com/AustinScola/AustinScola/blob/master/REFERENCES.md#hello-friend
+[2]: https://duckduckgo.com/?q=bostonian+meaning
+[3]: https://www.bostondynamics.com/
