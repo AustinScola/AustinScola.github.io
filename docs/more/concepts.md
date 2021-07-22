@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Concepts 
-permalink: /concepts/
+permalink: /more/concepts/
 ---
 {% for concept in site.concepts %}
   <h3>

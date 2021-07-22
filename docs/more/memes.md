@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Memes
-permalink: /memes/
+permalink: /more/memes/
 ---
 {% for meme in site.memes %}
   <h3>
