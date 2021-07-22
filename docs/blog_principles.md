@@ -19,4 +19,8 @@ expert when you are a noob. Don't act noobish when you know what's up.
 Post somewhat regularly. The value of the information set is not linear with the amount posted and
 also depends on the frequency.
 
+## Bites, meals, and festivals
+
+Share information in different chunk sizes for satiating different sized appetites.
+
 [1]: https://en.wikipedia.org/wiki/Goodhart%27s_law
