@@ -38,6 +38,9 @@ collections:
   concepts:
     title: No title
     output: true
+  memes:
+    title: No title
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
