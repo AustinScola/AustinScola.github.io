@@ -16,3 +16,11 @@ To build the site, run
 ```bash
 scripts/build.sh
 ```
+
+To view the site with live reloading for development, run
+
+```bash
+scripts/serve.sh
+```
+
+And navigate to http://localhost:4000.
