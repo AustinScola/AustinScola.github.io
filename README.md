@@ -19,6 +19,8 @@ scripts/build.sh
 
 To view the site with live reloading for development, run
 
+### Serve locally
+
 ```bash
 scripts/serve.sh
 ```
