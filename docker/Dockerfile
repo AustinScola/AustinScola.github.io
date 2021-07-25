@@ -1,4 +1,4 @@
-FROM ruby:3.0
+FROM ruby:2.7
 
 WORKDIR /website
 
@@ -8,5 +8,3 @@ COPY docs/Gemfile.lock docs/Gemfile.lock
 WORKDIR docs
 
 RUN bundle install
-
-ENTRYPOINT ["bundle", "exec", "jekyll", "build"]
