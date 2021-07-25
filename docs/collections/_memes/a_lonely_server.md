@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Loneley Server
+title: A Lonely Server
 ---
 ```
 2038-01-19T03:14:03+00:00 -:- INFO -:- Received status check.
